@@ -13,3 +13,11 @@ Install PowerLevel10x:
 [powerlevel10k](https://github.com/romkatv/powerlevel10k) 
 
 
+## Picom
+- follow instructions of [picom](https://github.com/yshui/picom) 
+
+
+## Awesome
+- Way to store wallpapers
+
+
