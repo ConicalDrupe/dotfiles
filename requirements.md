@@ -20,4 +20,6 @@ Install PowerLevel10x:
 ## Awesome
 - Way to store wallpapers
 
+## touchegg
 
+## xsession
